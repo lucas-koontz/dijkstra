@@ -1,0 +1,28 @@
+11 15
+amsterdan
+brussels
+berlin
+prague
+frankfurt
+paris
+geneva
+grenoble
+milan
+florence
+munich
+0 1 205
+0 2 690
+1 4 405
+1 5 290
+2 3 380
+3 4 530
+3 10 360
+4 6 585
+5 6 550
+6 7 310
+7 8 390
+8 9 250
+8 10 550
+9 10 650
+6 8 410
+0 0
